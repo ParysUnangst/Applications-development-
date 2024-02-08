@@ -1,0 +1,37 @@
+{
+  "name": "exploring_.json_in_node",
+  "version": "1.0.0",
+  "description": "creating a basic package.json file using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "tryit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParysUnangst/Applications-development-.git"
+  },
+  "keywords": [
+    "example",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParysUnangst/Applications-development-/issues"
+  },
+  "homepage": "https://github.com/ParysUnangst/Applications-development-#readme",
+  "engines": {
+    "node": "v20.11.0",
+    "npm": "10.2.4"
+  },
+  
+  "dependencies": {
+    "debug": "^4.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
