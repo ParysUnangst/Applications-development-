@@ -1,11 +1,12 @@
 {
   "name": "exploring_.json_in_node",
   "version": "1.0.0",
-  "description": "creating a basic package.json file using node.js",
+  "description": "npm exercise",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "test": "tryit"
+    "test":  "echo \"Error: no test specification\" && exit 1",
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
