@@ -13,8 +13,14 @@ http.createServer((req, res)=>{
     switch(path) {
         // adding cases to the path
         case'/':
-
-
+            //having fs read html
+            fs.readFileSync("home.html", (err, data)=> {
+                if (err) {
+                    return console.error(err);
+                }
+                res.writeHead(200, {'content-Type': 'text/html'});
+                res.end(data.toString());
+            });  
             break;
         // method for response object
         case'/about':
@@ -22,7 +28,7 @@ http.createServer((req, res)=>{
             res.writeHead(200, {'content-Type': 'text/plain'});
             res.end("About Page");
             break;
-        // adding a default case in the even of an error
+        // adding a default case in the event of an error
         default:
             //adding the defaut for load error 404
             res.writeHead(404, {'content-Type': 'text/plain'});
