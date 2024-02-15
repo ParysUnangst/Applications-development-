@@ -1,1 +1,3 @@
-.\ConditionalRouting\node_modules
+/node_modules/
+/ConditionalRouting/node_modules/
+/express/node_modules/
