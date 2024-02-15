@@ -1,0 +1,30 @@
+{
+  "name": "conditionalrouting",
+  "version": "1.0.0",
+  "description": "Implementing conditional routing in an Express NodeJS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specification\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParysUnangst/Applications-development-.git"
+  },
+  "keywords": [
+    "example",
+    "Express",
+    "NodeJs",
+    "Routing",
+    "Conditional"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParysUnangst/Applications-development-/issues"
+  },
+  "homepage": "https://github.com/ParysUnangst/Applications-development-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}

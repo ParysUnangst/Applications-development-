@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Building a basic Express Node.js Server 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specification\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParysUnangst/Applications-development-.git"
+  },
+  "keywords": [
+    "Express",
+    "init",
+    "Node.js",
+    "npm"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
