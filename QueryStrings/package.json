@@ -1,0 +1,30 @@
+{
+  "name": "querystrings",
+  "version": "1.0.0",
+  "description": "An express NodeJs server that demonstrates how to retrieve and utilize query string data from GET requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specification\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParysUnangst/Node.js-and-Express-.git"
+  },
+  "keywords": [
+    "Example",
+    "Express",
+    "NodeJS",
+    "Querys",
+    "String",
+    "GET"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParysUnangst/Node.js-and-Express-/issues"
+  },
+  "homepage": "https://github.com/ParysUnangst/Node.js-and-Express-#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
