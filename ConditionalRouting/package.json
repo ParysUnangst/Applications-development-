@@ -4,11 +4,11 @@
   "description": "Implementing conditional routing in an Express NodeJS server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specification\\\" && exit 1"
+    "test": "echo \"Error: no test specification\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ParysUnangst/Applications-development-.git"
+    "url": "git+https://github.com/ParysUnangst/Node.js-and-Express-.git"
   },
   "keywords": [
     "example",

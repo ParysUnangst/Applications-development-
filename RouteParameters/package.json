@@ -1,0 +1,31 @@
+{
+  "name": "routeparameters",
+  "version": "1.0.0",
+  "description": "An express NodeJS server that handles dynamic route parameters, allowing for personalized responses based on URL input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specification\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParysUnangst/Node.js-and-Express-.git"
+  },
+  "keywords": [
+    "Example",
+    "Express",
+    "NodeJS",
+    "Package.JSON",
+    "Npm",
+    "Route",
+    "Params"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParysUnangst/Node.js-and-Express-/issues"
+  },
+  "homepage": "https://github.com/ParysUnangst/Node.js-and-Express-#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
