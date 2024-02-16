@@ -1,0 +1,24 @@
+{
+  "name": "regularexpressions",
+  "version": "1.0.0",
+  "description": "An express NodeJS server that utilizes regular expressions in route paths to handle multiple URL variations. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specification\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "    \"url\": \"git+https://github.com/ParysUnangst/Applications-development-.git\""
+  },
+  "keywords": [
+    "Express",
+    "NodeJS",
+    "Expressions",
+    "Example"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
